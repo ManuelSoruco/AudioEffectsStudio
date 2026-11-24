@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Audio Effects Studio",
+	"Description": "DAW-grade visual editors for all Unreal Engine's built-in audio effects.",
+	"Category": "Audio",
+	"CreatedBy": "AudioFactory",
+	"CreatedByURL": "https://audiofactory.studio",
+	"DocsURL": "https://github.com/ManuelSoruco/audio-effects-studio#readme",
+	"SupportURL": "https://github.com/ManuelSoruco/audio-effects-studio/issues",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SupportedTargetPlatforms": [
+		"Win64",
+		"Mac",
+		"Linux"
+	],
+	"Modules": [
+		{
+			"Name": "AudioEffectsStudio",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AudioWidgets",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		}
+	]
+}
