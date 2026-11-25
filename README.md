@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_EQ__4_Bands.png" width="720" alt="Audio Effects Studio, Parametric EQ">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_EQ__4_Bands.png" width="720" alt="Audio Effects Studio, Parametric EQ">
 </p>
 
 <h1 align="center">Audio Effects Studio</h1>
@@ -34,8 +34,8 @@ Audio Effects Studio replaces the default editor for all 27 built-in audio effec
 - **One consistent layout** across every effect
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Dynamics.png" width="420" alt="Dynamics Processor">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Filter.png" width="420" alt="Source Filter with frequency response">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Dynamics.png" width="420" alt="Dynamics Processor">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Filter.png" width="420" alt="Source Filter with frequency response">
 </p>
 
 ## Effects covered
@@ -57,8 +57,8 @@ Graphs are drawn in plain Slate, with no materials or textures:
 - Gain reduction metering and stereo level meters with peak hold
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Multiband__3_Bands.png" width="420" alt="Multiband Compressor">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Reverb.png" width="420" alt="Submix Reverb">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Multiband__3_Bands.png" width="420" alt="Multiband Compressor">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Reverb.png" width="420" alt="Submix Reverb">
 </p>
 
 ## Workflow
@@ -100,19 +100,19 @@ The plugin is an editor-only module. It adds nothing to packaged games.
 ## Gallery
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Chorus.png" width="280" alt="Chorus">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Phaser.png" width="280" alt="Phaser">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_RingMod.png" width="280" alt="Ring Modulation">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Chorus.png" width="280" alt="Chorus">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Phaser.png" width="280" alt="Phaser">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_RingMod.png" width="280" alt="Ring Modulation">
 </p>
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_StereoDelay.png" width="280" alt="Stereo Delay (Submix)">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_TapDelay__3_Taps.png" width="280" alt="Tap Delay">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_FoldbackDist.png" width="280" alt="Foldback Distortion">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_StereoDelay.png" width="280" alt="Stereo Delay (Submix)">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_TapDelay__3_Taps.png" width="280" alt="Tap Delay">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_FoldbackDist.png" width="280" alt="Foldback Distortion">
 </p>
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_MotionFilter.png" width="280" alt="Motion Filter">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Flexiverb.png" width="280" alt="Flexiverb">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_StereoDelay.png" width="280" alt="Stereo Delay (Source)">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_MotionFilter.png" width="280" alt="Motion Filter">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Flexiverb.png" width="280" alt="Flexiverb">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_StereoDelay.png" width="280" alt="Stereo Delay (Source)">
 </p>
 
 The pictures are hosted outside this repository.

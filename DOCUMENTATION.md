@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_EQ__4_Bands.png" width="720" alt="Audio Effects Studio — Parametric EQ">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_EQ__4_Bands.png" width="720" alt="Audio Effects Studio — Parametric EQ">
 </p>
 
 <h1 align="center">Audio Effects Studio — User Documentation</h1>
@@ -55,8 +55,8 @@ No configuration required and no engine modifications. This repository ships sou
 Find any audio effect preset asset in the **Content Browser** — a Source Effect or a Submix Effect — and **double-click** it. Instead of the standard property grid, the Audio Effects Studio editor opens: a floating, resizable window with knobs, sliders, and real-time visualizations, just like opening a VST plugin in your DAW.
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Reverb.png" width="480" alt="Submix Reverb Editor">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Filter.png" width="480" alt="Source Filter Editor">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Reverb.png" width="480" alt="Submix Reverb Editor">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Filter.png" width="480" alt="Source Filter Editor">
 </p>
 
 ### The Fallback — Ctrl + Double-Click
@@ -142,7 +142,7 @@ Add and remove bands with the **+** and **×** buttons in the band cards below t
 ### Filter Frequency Response
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Filter.png" width="480" alt="Filter Response">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Filter.png" width="480" alt="Filter Response">
 </p>
 
 Used in the **Filter editors** (Source and Submix) and **Motion Filter**. Shows the magnitude response of the current filter type (Low-Pass, High-Pass, Band-Pass, or Notch) including the resonance peak at the cutoff frequency. As you move the Cutoff and Resonance knobs, the curve moves with them.
@@ -150,7 +150,7 @@ Used in the **Filter editors** (Source and Submix) and **Motion Filter**. Shows 
 ### Dynamics Transfer Curve
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Source_Dynamics.png" width="480" alt="Dynamics Transfer Curve">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Source_Dynamics.png" width="480" alt="Dynamics Transfer Curve">
 </p>
 
 Used in the **Dynamics editors** (Source and Submix). Shows the classic input/output gain transfer graph: diagonal unity line, threshold position, and the knee and ratio applied above it. The shape changes automatically when you switch between Compressor, Limiter, Expander, and Gate modes.
@@ -158,7 +158,7 @@ Used in the **Dynamics editors** (Source and Submix). Shows the classic input/ou
 ### Reverb Decay Graph
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Reverb.png" width="480" alt="Reverb Decay">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Reverb.png" width="480" alt="Reverb Decay">
 </p>
 
 Used in the **Submix Reverb** editor. Displays a time-domain envelope of the reverb tail: a spike for early reflections, a smooth exponential decay for the late reverb body, and a secondary HF-decay overlay showing how high frequencies fade faster than low ones. Adjust Decay Time and Reflections knobs and watch the curve reshape.
@@ -166,7 +166,7 @@ Used in the **Submix Reverb** editor. Displays a time-domain envelope of the rev
 ### Multiband Crossover Visualization
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_Multiband__3_Bands.png" width="600" alt="Multiband Compressor">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_Multiband__3_Bands.png" width="600" alt="Multiband Compressor">
 </p>
 
 Used in the **Multiband Compressor** editor. Draws the frequency spectrum divided into up to four colored bands, with filled areas, crossover overlap zones, and gain envelopes per band. The crossover points move as you adjust the frequency split controls.
@@ -174,7 +174,7 @@ Used in the **Multiband Compressor** editor. Draws the frequency spectrum divide
 ### Tap Delay Graph
 
 <p align="center">
-  <img src="https://audiofactory.studio/oss/audio-effects-studio/screenshots/Submix_TapDelay__3_Taps.png" width="600" alt="Tap Delay Graph">
+  <img src="https://github.com/ManuelSoruco/AudioEffectsStudio/releases/download/v1.0.0/Submix_TapDelay__3_Taps.png" width="600" alt="Tap Delay Graph">
 </p>
 
 Used in the **Tap Delay** editor. Bar visualization showing each tap's delay time on the horizontal axis and its gain on the vertical axis. Bars are color-coded by tap index. Add taps with the **+ Tap** button; each new tap gets its own card for time and gain control below the graph.
