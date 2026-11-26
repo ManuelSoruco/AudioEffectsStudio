@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engine-Unreal%205.6--5.8-blue" alt="Unreal Engine 5.6 to 5.8">
+  <img src="https://img.shields.io/badge/Engine-Unreal%205.6%2B-blue" alt="Unreal Engine 5.6+">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT">
   <img src="https://img.shields.io/badge/Type-Editor%20Plugin-purple" alt="Editor plugin">
   <img src="https://img.shields.io/badge/Effects-27%20Editors-green" alt="27 editors">
@@ -18,7 +18,7 @@
 
 ---
 
-This repository is version 1.0.0 of the plugin, released as source code. It targets **Unreal Engine 5.6, 5.7 and 5.8**.
+This repository is version 1.0.0 of the plugin, released as source code. It targets **Unreal Engine 5.6+**.
 
 ## The problem
 
@@ -108,7 +108,7 @@ YourProject/
 
 ### Requirements
 
-- Unreal Engine **5.6**, **5.7** or **5.8**
+- Unreal Engine **5.6+**
 - The C++ toolchain Unreal requires for your platform
 - The **AudioWidgets** and **Synthesis** plugins (enabled by default in the engine)
 
