@@ -134,11 +134,11 @@ The UI theme and every widget live inside this plugin. There are no submodules a
 
 ## Tests
 
-This release has no automated tests. Contributions that add them are welcome.
+This release has no automated tests.
 
-## Contributing
+## Make it yours
 
-Issues and pull requests are welcome, for example support for third-party effect plugins, new visualizations or new themes.
+This plugin is shared as is. We do not review pull requests or issues. Fork it and change it however you like: the MIT License lets you use it in your own projects, commercial ones included.
 
 ## The AudioFactory plugin family
 
