@@ -152,7 +152,7 @@ This plugin is shared as is. We do not review pull requests or issues. Fork it a
 
 ## Version history
 
-- **1.0 (November 2026).** First release: visual editors for all 27 built-in Source and Submix Effects, three color themes.
+- **1.0 (9 March 2026).** First release: visual editors for all 27 built-in Source and Submix Effects, three color themes.
 
 ## License
 
